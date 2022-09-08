@@ -10,7 +10,7 @@
  3)install git on a local machine
  4) create a local dir to host your local repo
  5)start git and the bash shell
- 6)find the local directory (named my gitdir)
+ 6)Find the local directory (named my gitdir)
  use the git command init
  create a public/ private key pair for the remote repo
  copy the  public key to the remote repo
